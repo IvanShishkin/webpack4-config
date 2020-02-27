@@ -48,7 +48,7 @@
     "webpackbar": "^3.1.5"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "fancybox": "^3.0.1",
     "gsap": "^2.1.2",
     "jquery": "^3.3.1",
