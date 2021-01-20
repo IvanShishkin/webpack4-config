@@ -50,7 +50,7 @@
   "dependencies": {
     "axios": "^0.18.0",
     "fancybox": "^3.0.1",
-    "gsap": "^2.1.2",
+    "gsap": "^3.6.0",
     "jquery": "^3.3.1",
     "normalize.css": "^8.0.1",
     "owl.carousel": "^2.3.4",
